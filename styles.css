@@ -3,5 +3,13 @@
 }
 
 .post {
-   margin: 1px green;
+   border: 2px green solid;
+}
+
+.post-header, .post-image, .post-body {
+    border: 2px solid rgb(156, 2, 2);
+}
+
+.post-icons i {
+    border: 2px solid rgb(119, 128, 0);
 }
